@@ -1,0 +1,1 @@
+int& add_offset(int& input, int offset);

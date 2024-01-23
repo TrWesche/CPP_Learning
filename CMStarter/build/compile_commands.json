@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/local_repos/CPP_Learning/CMStarter/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/CMStarter.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\CMStarter.dir\\main.cpp.obj -c C:\\local_repos\\CPP_Learning\\CMStarter\\main.cpp",
+  "file": "C:/local_repos/CPP_Learning/CMStarter/main.cpp",
+  "output": "CMakeFiles/CMStarter.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/local_repos/CPP_Learning/CMStarter/build/lib/FlexContainer",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\FlexContainer.dir\\FlexContainer.cpp.obj -c C:\\local_repos\\CPP_Learning\\CMStarter\\lib\\FlexContainer\\FlexContainer.cpp",
+  "file": "C:/local_repos/CPP_Learning/CMStarter/lib/FlexContainer/FlexContainer.cpp",
+  "output": "lib/FlexContainer/CMakeFiles/FlexContainer.dir/FlexContainer.cpp.obj"
+}
+]

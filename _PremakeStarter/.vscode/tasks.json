@@ -1,0 +1,45 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Premake5: Generate Project Files - MinGW",
+			"command": "premake5",
+			"args": [
+				"gmake2"
+			],
+			"problemMatcher": [],
+			"group": {
+				"kind":"build",
+				"isDefault": false
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Make: Build Debug",
+			"command": "make",
+			"args": [
+				"--directory=${workspaceFolder}\\build",
+				"config=debug"
+			],
+			"problemMatcher": [],
+			"group": {
+				"kind":"build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Run App",
+			"command": "",
+			"args": [
+				"${workspaceFolder}\\build\\bin\\Debug\\ProjectName.exe"
+			],
+			"problemMatcher": [],
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			}
+		}
+	]
+}

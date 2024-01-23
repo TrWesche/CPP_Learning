@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libFlexContainer.a CMakeFiles/FlexContainer.dir/FlexContainer.cpp.obj
+C:\mingw64\bin\ranlib.exe libFlexContainer.a

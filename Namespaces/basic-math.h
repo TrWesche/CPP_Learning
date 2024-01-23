@@ -1,0 +1,9 @@
+namespace Basic_Math {
+    double add (double x, double y) {
+        return x + y;
+    }
+
+    double sub (double x, double y) {
+        return x - y;
+    }
+}

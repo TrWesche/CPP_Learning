@@ -1,0 +1,5 @@
+C:/local_repos/CPP_Learning/Project_BoxContainer/build/CMakeFiles/PROJECT_BOXCONTAINER.dir
+C:/local_repos/CPP_Learning/Project_BoxContainer/build/CMakeFiles/package.dir
+C:/local_repos/CPP_Learning/Project_BoxContainer/build/CMakeFiles/package_source.dir
+C:/local_repos/CPP_Learning/Project_BoxContainer/build/CMakeFiles/edit_cache.dir
+C:/local_repos/CPP_Learning/Project_BoxContainer/build/CMakeFiles/rebuild_cache.dir

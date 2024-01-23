@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/local_repos/CPP_Learning/Project_BoxContainer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\PROJECT_BOXCONTAINER.dir\\main.cpp.obj -c C:\\local_repos\\CPP_Learning\\Project_BoxContainer\\src\\main.cpp",
+  "file": "C:/local_repos/CPP_Learning/Project_BoxContainer/src/main.cpp",
+  "output": "CMakeFiles/PROJECT_BOXCONTAINER.dir/main.cpp.obj"
+}
+]

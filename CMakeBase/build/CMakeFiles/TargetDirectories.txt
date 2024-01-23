@@ -1,0 +1,9 @@
+C:/local_repos/CPP_Learning/CMakeBase/build/CMakeFiles/CMakeBase.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/CMakeFiles/edit_cache.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/CMakeFiles/rebuild_cache.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/CMakeFiles/edit_cache.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/CMakeFiles/rebuild_cache.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions/CMakeFiles/SqrtLibrary.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions/CMakeFiles/edit_cache.dir
+C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions/CMakeFiles/rebuild_cache.dir

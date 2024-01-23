@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/local_repos/CPP_Learning/CMakeBase/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/CMakeBase.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\CMakeBase.dir\\tutorial.cxx.obj -c C:\\local_repos\\CPP_Learning\\CMakeBase\\tutorial.cxx",
+  "file": "C:/local_repos/CPP_Learning/CMakeBase/tutorial.cxx",
+  "output": "CMakeFiles/CMakeBase.dir/tutorial.cxx.obj"
+},
+{
+  "directory": "C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\SqrtLibrary.dir\\mysqrt.cxx.obj -c C:\\local_repos\\CPP_Learning\\CMakeBase\\lib\\MathFunctions\\mysqrt.cxx",
+  "file": "C:/local_repos/CPP_Learning/CMakeBase/lib/MathFunctions/mysqrt.cxx",
+  "output": "lib/MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.obj"
+},
+{
+  "directory": "C:/local_repos/CPP_Learning/CMakeBase/build/lib/MathFunctions",
+  "command": "C:\\mingw64\\bin\\g++.exe -DUSE_CUSTOMMATH  -g -std=gnu++20 -o CMakeFiles\\MathFunctions.dir\\MathFunctions.cxx.obj -c C:\\local_repos\\CPP_Learning\\CMakeBase\\lib\\MathFunctions\\MathFunctions.cxx",
+  "file": "C:/local_repos/CPP_Learning/CMakeBase/lib/MathFunctions/MathFunctions.cxx",
+  "output": "lib/MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.obj"
+}
+]

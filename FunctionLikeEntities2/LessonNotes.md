@@ -1,0 +1,1 @@
+Lambda Functions are Functors behind the scenes
