@@ -1,6 +1,6 @@
-../bin-int/Debug-windows-x86_64/CPP_Iterators/CPP_Iterators.o: \
- ../../ProjectName/ext/CPP_Iterators/CPP_Iterators.cpp \
- ../../ProjectName/ext/CPP_Iterators/CPP_Iterators.hpp \
+../bin-int/Debug-windows-x86_64/EntityContainer/EntityContainer.o: \
+ ../../ProjectName/ext/EntityContainer/EntityContainer.cpp \
+ ../../ProjectName/ext/EntityContainer/EntityContainer.hpp \
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/iostream \
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -150,24 +150,8 @@
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ostream.tcc \
  C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/istream \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/istream.tcc \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/vector \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_uninitialized.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_vector.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_bvector.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/vector.tcc \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/algorithm \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_algo.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/algorithmfwd.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_heap.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/uniform_int_dist.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_tempbuf.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ranges_algo.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ranges_algobase.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/pstl/glue_algorithm_defs.h \
- C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/pstl/execution_defs.h \
- ../../ProjectName/ext/HelperFunctions/HelperFunctions.hpp
-../../ProjectName/ext/CPP_Iterators/CPP_Iterators.hpp:
+ C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/istream.tcc
+../../ProjectName/ext/EntityContainer/EntityContainer.hpp:
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/iostream:
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/requires_hosted.h:
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h:
@@ -318,19 +302,3 @@ C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ostream.tcc:
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/istream:
 C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/istream.tcc:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/vector:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_uninitialized.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_vector.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_bvector.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/vector.tcc:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/algorithm:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_algo.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/algorithmfwd.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_heap.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/uniform_int_dist.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/stl_tempbuf.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ranges_algo.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/bits/ranges_algobase.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/pstl/glue_algorithm_defs.h:
-C:/tools/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/include/c++/13.2.0/pstl/execution_defs.h:
-../../ProjectName/ext/HelperFunctions/HelperFunctions.hpp:

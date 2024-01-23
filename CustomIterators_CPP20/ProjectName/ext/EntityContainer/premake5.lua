@@ -9,23 +9,8 @@ project "EntityContainer"
 
 	files
 	{
-		"*.hpp",
-		"*.cpp"
+		"*.hpp"
 	}
-
-	includedirs
-	{
-	}
-
-	libdirs
-	{
-	}
-
-	links
-	{
-	}
-
-
 
 	filter "configurations:Debug"
 		runtime "Debug"
