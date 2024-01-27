@@ -1,0 +1,3 @@
+[submodule "CPP20_Coroutines_ExtLibs/ProjectName/ext/coro"]
+	path = CPP20_Coroutines_ExtLibs/ProjectName/ext/coro
+	url = https://github.com/TrWesche/coro
