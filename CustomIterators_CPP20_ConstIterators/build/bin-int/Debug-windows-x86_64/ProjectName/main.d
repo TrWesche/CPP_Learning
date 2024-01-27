@@ -173,6 +173,8 @@
  ../../ProjectName/ext/EntityContainer/EntityContainer.hpp \
  ../../ProjectName/ext/EntityContainer/_EC_Itr.hpp \
  ../../ProjectName/ext/EntityContainer/_EC_Itr.cpp \
+ ../../ProjectName/ext/EntityContainer/_EC_Const_Itr.hpp \
+ ../../ProjectName/ext/EntityContainer/_EC_Const_Itr.cpp \
  ../../ProjectName/ext/EntityContainer/EntityContainer.cpp
 c:\mingw64\include\c++\12.1.0\iostream:
 c:\mingw64\include\c++\12.1.0\x86_64-w64-mingw32\bits\c++config.h:
@@ -350,4 +352,6 @@ c:\mingw64\include\c++\12.1.0\bits\vector.tcc:
 ../../ProjectName/ext/EntityContainer/EntityContainer.hpp:
 ../../ProjectName/ext/EntityContainer/_EC_Itr.hpp:
 ../../ProjectName/ext/EntityContainer/_EC_Itr.cpp:
+../../ProjectName/ext/EntityContainer/_EC_Const_Itr.hpp:
+../../ProjectName/ext/EntityContainer/_EC_Const_Itr.cpp:
 ../../ProjectName/ext/EntityContainer/EntityContainer.cpp:
