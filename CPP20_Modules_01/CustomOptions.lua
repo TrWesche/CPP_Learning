@@ -1,0 +1,10 @@
+-- newoption {
+--     trigger = "compiler",
+--     value = "COMPILER",
+--     description = "Choose a gmake2 Compiler, Ignored for MSVC",
+--     allowed = {
+--        { "gcc",    "GCC" },
+--        { "clang",  "Clang" }
+--     },
+--     default = "gcc"
+-- }

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\local_repos\\cpp_learning\\cpp20_modules_l01\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "math_module",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\math.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
