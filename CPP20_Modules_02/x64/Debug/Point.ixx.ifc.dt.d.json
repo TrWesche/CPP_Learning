@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\localrepos\\cpp_learning\\cpp20_modules_02\\point.ixx",
+        "ProvidedModule": "Point",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

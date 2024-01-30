@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\localrepos\\cpp_learning\\cpp20_modules_02\\modulepartitionsa.ixx",
+        "ProvidedModule": "ModulePartitions:A",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

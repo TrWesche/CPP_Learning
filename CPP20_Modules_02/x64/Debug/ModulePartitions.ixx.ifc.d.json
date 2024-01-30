@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\localrepos\\cpp_learning\\cpp20_modules_02\\modulepartitions.ixx",
+        "ProvidedModule": "ModulePartitions",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "ModulePartitions:A",
+                "BMI": "C:\\LocalRepos\\CPP_Learning\\CPP20_Modules_02\\x64\\Debug\\ModulePartitionsA.ixx.ifc"
+            },
+            {
+                "Name": "ModulePartitions:B",
+                "BMI": "C:\\LocalRepos\\CPP_Learning\\CPP20_Modules_02\\x64\\Debug\\ModulePartitionsB.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

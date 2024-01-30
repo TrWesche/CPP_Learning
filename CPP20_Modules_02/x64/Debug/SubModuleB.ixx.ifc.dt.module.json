@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\localrepos\\cpp_learning\\cpp20_modules_02\\submoduleb.ixx",
+        "ProvidedModule": "SubModule.B",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

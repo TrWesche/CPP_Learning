@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\localrepos\\cpp_learning\\cpp20_modules_02\\submoduletop.ixx",
+        "ProvidedModule": "SubModuleTop",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "SubModule.A",
+                "BMI": "C:\\LocalRepos\\CPP_Learning\\CPP20_Modules_02\\x64\\Debug\\SubModuleA.ixx.ifc"
+            },
+            {
+                "Name": "SubModule.B",
+                "BMI": "C:\\LocalRepos\\CPP_Learning\\CPP20_Modules_02\\x64\\Debug\\SubModuleB.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
