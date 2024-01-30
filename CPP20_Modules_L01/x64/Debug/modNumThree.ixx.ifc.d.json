@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\local_repos\\cpp_learning\\cpp20_modules_l01\\modnumthree.ixx",
+        "ProvidedModule": "modNumThree",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.32.31326\\include\\iostream",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\iostream_TJLN7WAEZU2IFP92.ifc"
+            }
+        ]
+    }
+}

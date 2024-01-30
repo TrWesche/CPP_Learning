@@ -4,8 +4,13 @@
         "Source": "c:\\local_repos\\cpp_learning\\cpp20_modules_l01\\main.cpp",
         "ProvidedModule": "",
         "ImportedModules": [
-            "math_module"
+            "math_module",
+            "modNumTwo",
+            "modNumThree",
+            "modNumFour"
         ],
-        "ImportedHeaderUnits": []
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\iostream"
+        ]
     }
 }

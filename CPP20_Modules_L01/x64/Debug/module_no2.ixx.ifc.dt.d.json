@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\local_repos\\cpp_learning\\cpp20_modules_l01\\module_no2.ixx",
+        "ProvidedModule": "$safeitemname$",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

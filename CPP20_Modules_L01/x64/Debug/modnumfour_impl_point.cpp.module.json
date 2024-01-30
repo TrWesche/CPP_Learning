@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\local_repos\\cpp_learning\\cpp20_modules_l01\\modnumfour_impl_point.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "modNumFour"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -137,6 +137,15 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="math.ixx" />
+    <ClCompile Include="modNumFour.ixx" />
+    <ClCompile Include="modNumFour_impl_helpers.cpp" />
+    <ClCompile Include="modNumFour_impl_Point.cpp" />
+    <ClCompile Include="modNumThree_impl.cpp" />
+    <ClCompile Include="modNumThree.ixx" />
+    <ClCompile Include="modNumTwo.ixx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

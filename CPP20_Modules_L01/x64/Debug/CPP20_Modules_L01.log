@@ -1,7 +1,11 @@
 ﻿  Scanning sources for module dependencies...
+  modNumFour_impl_Point.cpp
+  modNumFour_impl_helpers.cpp
+  modNumFour.ixx
   main.cpp
-  math.ixx
   Compiling...
-  math.ixx
+  modNumFour.ixx
+  modNumFour_impl_helpers.cpp
+  modNumFour_impl_Point.cpp
   main.cpp
   CPP20_Modules_L01.vcxproj -> C:\local_repos\CPP_Learning\CPP20_Modules_L01\x64\Debug\CPP20_Modules_L01.exe

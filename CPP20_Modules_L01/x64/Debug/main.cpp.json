@@ -8,8 +8,25 @@
             {
                 "Name": "math_module",
                 "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\math.ixx.ifc"
+            },
+            {
+                "Name": "modNumTwo",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\modNumTwo.ixx.ifc"
+            },
+            {
+                "Name": "modNumThree",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\modNumThree.ixx.ifc"
+            },
+            {
+                "Name": "modNumFour",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\modNumFour.ixx.ifc"
             }
         ],
-        "ImportedHeaderUnits": []
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.32.31326\\include\\iostream",
+                "BMI": "C:\\local_repos\\CPP_Learning\\CPP20_Modules_L01\\x64\\Debug\\iostream_TJLN7WAEZU2IFP92.ifc"
+            }
+        ]
     }
 }
